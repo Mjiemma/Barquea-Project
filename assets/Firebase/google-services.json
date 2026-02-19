@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "696824378479",
+    "project_id": "barquea-8ed18",
+    "storage_bucket": "barquea-8ed18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696824378479:android:0262ca8abe132e6769499a",
+        "android_client_info": {
+          "package_name": "com.foreve0914.Barquea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696824378479-uo4s6qq94dg1hr2pkmtikhj6idsdecmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foreve0914.Barquea",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "696824378479-5leooph2e52bi805es0fbu75la3b5fhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUhQH3Kw36FBM76U8HS3GLtOo-gIXxJPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696824378479-5leooph2e52bi805es0fbu75la3b5fhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696824378479-u2ies3ohpgtaem2hq6ni0e7otmvig641.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foreve0914.Barquea"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

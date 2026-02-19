@@ -1,0 +1,462 @@
+{
+    "common": {
+        "welcome": "Welcome to Barquea!",
+        "loading": "Loading...",
+        "error": "Error",
+        "retry": "Retry",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "save": "Save",
+        "edit": "Edit",
+        "delete": "Delete",
+        "search": "Search",
+        "filter": "Filter",
+        "next": "Next",
+        "back": "Back",
+        "skip": "Skip",
+        "done": "Done",
+        "close": "Close",
+        "yes": "Yes",
+        "no": "No",
+        "ok": "OK"
+    },
+    "onboarding": {
+        "slide1": {
+            "title": "Discover Amazing Boats",
+            "subtitle": "Your adventure starts here",
+            "description": "Explore a wide selection of unique boats in the best locations. From luxury yachts to cozy sailboats."
+        },
+        "slide2": {
+            "title": "Book with Confidence",
+            "subtitle": "Simple and secure process",
+            "description": "Book your ideal boat in just a few clicks. Secure payments, direct communication with hosts, and flexible cancellation."
+        },
+        "slide3": {
+            "title": "Live Unique Experiences",
+            "subtitle": "Unforgettable moments await you",
+            "description": "Enjoy extraordinary nautical experiences. From romantic sunsets to exciting fishing adventures."
+        },
+        "getStarted": "Get Started"
+    },
+    "settings": {
+        "title": "Settings",
+        "subtitle": "Customize your experience",
+        "general": {
+            "title": "General"
+        },
+        "appearance": {
+            "title": "Appearance"
+        },
+        "notifications": {
+            "title": "Notifications"
+        },
+        "language": {
+            "title": "Language",
+            "subtitle": "Select your preferred language",
+            "select": "Select language",
+            "changed": "Language changed",
+            "restartMessage": "The language change will be applied throughout the app",
+            "error": "Error changing language"
+        },
+        "profilePhoto": {
+            "title": "Profile Photo",
+            "subtitle": "Change your profile photo"
+        },
+        "theme": {
+            "title": "Theme",
+            "subtitle": "Light or dark"
+        },
+        "pushNotifications": {
+            "title": "Push notifications",
+            "subtitle": "Receive important notifications"
+        }
+    },
+    "auth": {
+        "login": {
+            "title": "Welcome back!",
+            "subtitle": "Sign in to continue your nautical adventure",
+            "email": "Email",
+            "emailPlaceholder": "your@email.com",
+            "password": "Password",
+            "passwordPlaceholder": "Your password",
+            "forgotPassword": "Forgot your password?",
+            "loginButton": "Sign In",
+            "orContinueWith": "Or continue with",
+            "noAccount": "Don't have an account? ",
+            "signUp": "Sign Up"
+        },
+        "register": {
+            "title": "Create Account",
+            "subtitle": "Join the largest nautical community",
+            "firstName": "First Name",
+            "firstNamePlaceholder": "Your first name",
+            "lastName": "Last Name",
+            "lastNamePlaceholder": "Your last name",
+            "phone": "Phone (Optional)",
+            "phonePlaceholder": "+1 234 567 8900",
+            "confirmPassword": "Confirm Password",
+            "confirmPasswordPlaceholder": "Repeat your password",
+            "acceptTerms": "I accept the Terms and Conditions and Privacy Policy",
+            "createAccount": "Create Account",
+            "hasAccount": "Already have an account? ",
+            "signIn": "Sign In"
+        },
+        "forgotPassword": {
+            "title": "Forgot your password?",
+            "subtitle": "Don't worry, enter your email and we'll send you instructions to reset your password.",
+            "sendInstructions": "Send Instructions",
+            "emailSent": "Email Sent",
+            "emailSentMessage": "We have sent password reset instructions to:",
+            "checkInbox": "Check your inbox and follow the instructions in the email. If you don't find it, check your spam folder.",
+            "backToLogin": "Back to Login",
+            "rememberedPassword": "Remembered your password? "
+        },
+        "errors": {
+            "emailRequired": "Email is required",
+            "emailInvalid": "Invalid email",
+            "passwordRequired": "Password is required",
+            "passwordMinLength": "Password must be at least {{length}} characters",
+            "passwordsNotMatch": "Passwords don't match",
+            "firstNameRequired": "First name is required",
+            "lastNameRequired": "Last name is required",
+            "termsRequired": "You must accept the terms and conditions",
+            "loginError": "Login error",
+            "registerError": "Error creating account",
+            "resetPasswordError": "Error sending email. Please try again."
+        }
+    },
+    "home": {
+        "greeting": {
+            "morning": "Good morning",
+            "afternoon": "Good afternoon",
+            "evening": "Good evening"
+        },
+        "search": {
+            "placeholder": "Where do you want to sail?"
+        },
+        "categories": {
+            "title": "Categories",
+            "all": "All",
+            "yacht": "Yachts",
+            "sailboat": "Sailboats",
+            "motorboat": "Motorboats",
+            "fishing_boat": "Fishing"
+        },
+        "quickActions": {
+            "title": "Quick Actions",
+            "hostBoat": {
+                "title": "Become a Host",
+                "subtitle": "Rent your boat"
+            },
+            "experiences": {
+                "title": "Experiences",
+                "subtitle": "Unique tours"
+            }
+        },
+        "featured": {
+            "title": "Nearby Boats",
+            "seeAll": "See all",
+            "noBoats": "No boats available",
+            "noBoatsDescription": "Try adjusting your search filters"
+        },
+        "loading": {
+            "boats": "Loading boats..."
+        }
+    },
+    "boat": {
+        "available": "Available",
+        "from": "From",
+        "perHour": "/hour",
+        "perDay": "/day",
+        "fullDay": "Full day",
+        "people": "people",
+        "host": "Host: {{name}}",
+        "moreAmenities": "+{{count}} more",
+        "loadingDetails": "Loading boat details...",
+        "notFound": "Boat not found",
+        "back": "Back",
+        "description": "Description",
+        "contactHost": "Contact host",
+        "responseTime": "Responds in {{time}}",
+        "cancellation": "Cancellation",
+        "cancellationPolicy": "Cancellation policy: {{policy}}",
+        "bookBoat": "Book boat",
+        "bookNow": "Book now",
+        "rules": "Rules",
+        "maxPassengers": "Maximum {{capacity}} passengers",
+        "smoking": "Smoking: {{allowed}}",
+        "pets": "Pets: {{allowed}}",
+        "allowed": "Allowed",
+        "notAllowed": "Not allowed",
+        "amenities": "Amenities",
+        "wifi": "WiFi",
+        "airConditioning": "Air Conditioning",
+        "kitchen": "Kitchen",
+        "shower": "Shower",
+        "speakers": "Speakers",
+        "gps": "GPS",
+        "refrigerator": "Refrigerator",
+        "grill": "Grill",
+        "fishingEquipment": "Fishing Equipment",
+        "lifeJackets": "Life Jackets",
+        "halfDay": "Half day",
+        "morning": "Morning",
+        "afternoon": "Afternoon",
+        "days": "days",
+        "boatTypes": {
+            "yacht": "Yacht",
+            "sailboat": "Sailboat",
+            "motorboat": "Motorboat",
+            "catamaran": "Catamaran",
+            "fishing_boat": "Fishing Boat"
+        },
+        "more": "more",
+        "luxuryYacht": "Luxury Mediterranean Yacht",
+        "classicSailboat": "Classic Sailboat",
+        "fishingBoat": "Fishing Boat",
+        "premiumCatamaran": "Premium Catamaran",
+        "spain": "Spain"
+    },
+    "navigation": {
+        "explore": "Explore",
+        "trips": "Trips",
+        "messages": "Messages",
+        "profile": "Profile"
+    },
+    "screens": {
+        "search": {
+            "title": "Search",
+            "subtitle": "Advanced search feature coming soon"
+        },
+        "trips": {
+            "title": "My Trips",
+            "subtitle": "Booking management coming soon"
+        },
+        "messages": {
+            "title": "Messages",
+            "subtitle": "Chat system coming soon"
+        },
+        "profile": {
+            "title": "Profile",
+            "subtitle": "Profile settings coming soon"
+        }
+    },
+    "profile": {
+        "verified": "Verified",
+        "logout": {
+            "title": "Logout",
+            "message": "Are you sure you want to logout?",
+            "confirm": "Logout",
+            "button": "Logout"
+        },
+        "menu": {
+            "title": "Menu",
+            "hostBoat": {
+                "title": "Become a Host",
+                "subtitle": "Rent your boat and earn money",
+                "pending": "Pending verification",
+                "pendingSubtitle": "Your application is being reviewed",
+                "approved": "Host Functions",
+                "approvedSubtitle": "Manage your boats and bookings",
+                "rejected": "Application rejected - Reapply",
+                "rejectedSubtitle": "You can reapply",
+                "rejectedWithReason": "Rejected: {{reason}}",
+                "manageBoats": "Host Admin"
+            },
+            "hostApplication": {
+                "title": "Host Application",
+                "subtitle": "Complete your application to become a host",
+                "firstName": "First Name",
+                "lastName": "Last Name",
+                "email": "Email",
+                "emailDifferent": "Email (if different from current)",
+                "phone": "Phone number *",
+                "phonePlaceholder": "+34 600 123 456",
+                "captainLicense": "Captain license number *",
+                "captainLicensePlaceholder": "E.g: 123456789",
+                "nauticalExperience": "What is your nautical experience? *",
+                "nauticalExperiencePlaceholder": "Describe your sailing experience, licenses, etc...",
+                "languages": "Do you speak other languages? *",
+                "languagesPlaceholder": "E.g: English, French, German...",
+                "hostDescription": "How would you describe yourself as a captain? *",
+                "hostDescriptionPlaceholder": "Presentation text for your profile...",
+                "personalInfo": "What is your personal information? *",
+                "personalInfoPlaceholder": "Name, phone, email, identity document...",
+                "submitApplication": "Submit Application",
+                "applicationSubmitted": "Application submitted successfully!",
+                "applicationSubmittedDescription": "We will review your application and contact you soon.",
+                "profilePhoto": "Profile Photo *",
+                "accountInfo": "Account Information",
+                "identityDocuments": "Identity Documents",
+                "identityDocumentsDescription": "Upload clear photos of your ID card on both sides",
+                "dniFront": "ID - Front *",
+                "dniBack": "ID - Back *",
+                "firstNamePlaceholder": "Your first name",
+                "lastNamePlaceholder": "Your last name",
+                "emailPlaceholder": "your@email.com"
+            },
+            "myBoats": {
+                "title": "My Boats",
+                "subtitle": "Manage your rented boats"
+            },
+            "bookings": {
+                "title": "My Bookings",
+                "subtitle": "Booking history and trips"
+            },
+            "favorites": {
+                "title": "Favorites",
+                "subtitle": "Saved boats for later"
+            },
+            "payments": {
+                "title": "Payments",
+                "subtitle": "Transaction history"
+            },
+            "settings": {
+                "title": "Settings",
+                "subtitle": "Preferences and privacy"
+            }
+        }
+    },
+    "messages": {
+        "title": "Messages",
+        "tabs": {
+            "all": "All",
+            "users": "Users",
+            "system": "System",
+            "admin": "Admin"
+        },
+        "empty": {
+            "title": "No messages",
+            "description": "When you have conversations with hosts or receive system notifications, they will appear here."
+        },
+        "inputPlaceholder": "Send message",
+        "sendError": "Could not send message",
+        "you": "You"
+    },
+    "boatDetails": {
+        "amenities": "Amenities",
+        "superHost": "Super Host",
+        "contactHost": "Contact Host",
+        "description": "Description",
+        "rules": "Boat Rules",
+        "cancellation": "Cancellation Policy",
+        "bookNow": "Book Now"
+    },
+    "search": {
+        "placeholder": "Search boats, brands, models...",
+        "searchCity": "Search city...",
+        "whereToSail": "Where do you want to sail?",
+        "selectZone": "Select a zone",
+        "sortBy": "Sort by",
+        "sort": {
+            "bestRated": "Best rated",
+            "cheapest": "Cheapest",
+            "mostExpensive": "Most expensive",
+            "leastRated": "Least rated"
+        },
+        "filters": "Filters",
+        "filters": {
+            "brand": "Brand",
+            "type": "Boat type",
+            "capacity": "Capacity",
+            "people": "people",
+            "clear": "Clear",
+            "apply": "Apply"
+        },
+        "results": "{{count}} boats found",
+        "empty": {
+            "title": "No boats found",
+            "description": "Try adjusting your search filters or select another location."
+        }
+    },
+    "trips": {
+        "title": "My Trips",
+        "tabs": {
+            "upcoming": "Upcoming",
+            "completed": "Completed",
+            "cancelled": "Cancelled"
+        },
+        "status": {
+            "upcoming": "Upcoming",
+            "completed": "Completed",
+            "cancelled": "Cancelled",
+            "pending": "Pending"
+        },
+        "actions": {
+            "message": "Message",
+            "reschedule": "Reschedule",
+            "review": "Review"
+        },
+        "empty": {
+            "title": "No trips yet",
+            "description": "When you make bookings, they will appear here for you to manage.",
+            "explore": "Explore Boats"
+        }
+    },
+    "host": {
+        "dashboard": {
+            "title": "Host Admin"
+        },
+        "tabs": {
+            "boats": "Boats",
+            "bookings": "Bookings"
+        },
+        "boats": {
+            "title": "My Boats",
+            "addBoat": "Add Boat",
+            "noBoats": "You don't manage any boats yet",
+            "noBoatsDescription": "Add your first boat to start receiving bookings",
+            "yourBoats": "Your Boats",
+            "basicInfo": "Basic Information",
+            "name": "Boat Name",
+            "namePlaceholder": "Enter boat name",
+            "description": "Description",
+            "descriptionPlaceholder": "Describe your boat",
+            "type": "Boat Type",
+            "capacity": "Capacity",
+            "capacityPlaceholder": "Max passengers",
+            "length": "Length",
+            "lengthPlaceholder": "Length in meters",
+            "year": "Year",
+            "yearPlaceholder": "Manufacturing year",
+            "pricing": "Pricing",
+            "pricingType": "Pricing Type",
+            "hourly": "Hourly",
+            "daily": "Full Day",
+            "pricePerHour": "Price per Hour",
+            "pricePerHourPlaceholder": "€/hour",
+            "pricePerDay": "Price per Day",
+            "pricePerDayPlaceholder": "€/day",
+            "location": "Location",
+            "city": "City",
+            "cityPlaceholder": "Enter city",
+            "state": "State/Region",
+            "statePlaceholder": "Enter state/region",
+            "country": "Country",
+            "countryPlaceholder": "Enter country",
+            "amenities": "Amenities",
+            "rules": "Rules",
+            "smokingAllowed": "Smoking allowed",
+            "petsAllowed": "Pets allowed",
+            "cancellationPolicy": "Cancellation Policy",
+            "cancellationPolicyPlaceholder": "Describe your cancellation policy",
+            "createBoat": "Create Boat",
+            "validation": {
+                "required": "Please fill in all required fields",
+                "priceRequired": "Please enter the corresponding price"
+            },
+            "success": {
+                "title": "Boat Created",
+                "message": "Your boat has been successfully added"
+            },
+            "error": {
+                "create": "Error creating boat. Please try again"
+            }
+        },
+        "bookings": {
+            "title": "Bookings",
+            "noBookings": "No bookings yet",
+            "noBookingsDescription": "When you receive bookings, they will appear here"
+        }
+    }
+}

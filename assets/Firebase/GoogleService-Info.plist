@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>696824378479-u2ies3ohpgtaem2hq6ni0e7otmvig641.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.696824378479-u2ies3ohpgtaem2hq6ni0e7otmvig641</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>696824378479-uo4s6qq94dg1hr2pkmtikhj6idsdecmm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJg-VFzpF2SU98Kvn6XPmuw9-3C_SKHbk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696824378479</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.foreve0914.Barquea</string>
+	<key>PROJECT_ID</key>
+	<string>barquea-8ed18</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barquea-8ed18.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696824378479:ios:53b02f132263dcd869499a</string>
+</dict>
+</plist>

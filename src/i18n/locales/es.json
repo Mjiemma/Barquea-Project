@@ -1,0 +1,462 @@
+{
+    "common": {
+        "welcome": "¡Bienvenido a Barquea!",
+        "loading": "Cargando...",
+        "error": "Error",
+        "retry": "Reintentar",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar",
+        "save": "Guardar",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "search": "Buscar",
+        "filter": "Filtrar",
+        "next": "Siguiente",
+        "back": "Atrás",
+        "skip": "Saltar",
+        "done": "Hecho",
+        "close": "Cerrar",
+        "yes": "Sí",
+        "no": "No",
+        "ok": "OK"
+    },
+    "onboarding": {
+        "slide1": {
+            "title": "Descubre Barcos Increíbles",
+            "subtitle": "Tu aventura comienza aquí",
+            "description": "Explora una amplia selección de barcos únicos en las mejores ubicaciones. Desde yates de lujo hasta veleros acogedores."
+        },
+        "slide2": {
+            "title": "Reserva con Confianza",
+            "subtitle": "Proceso simple y seguro",
+            "description": "Reserva tu barco ideal en solo unos clics. Pagos seguros, comunicación directa con anfitriones y cancelación flexible."
+        },
+        "slide3": {
+            "title": "Vive Experiencias Únicas",
+            "subtitle": "Momentos inolvidables te esperan",
+            "description": "Disfruta de experiencias náuticas extraordinarias. Desde puestas de sol románticas hasta aventuras de pesca emocionantes."
+        },
+        "getStarted": "Comenzar"
+    },
+    "settings": {
+        "title": "Configuración",
+        "subtitle": "Personaliza tu experiencia",
+        "general": {
+            "title": "General"
+        },
+        "appearance": {
+            "title": "Apariencia"
+        },
+        "notifications": {
+            "title": "Notificaciones"
+        },
+        "language": {
+            "title": "Idioma",
+            "subtitle": "Selecciona tu idioma preferido",
+            "select": "Seleccionar idioma",
+            "changed": "Idioma cambiado",
+            "restartMessage": "El cambio de idioma se aplicará en toda la aplicación",
+            "error": "Error al cambiar idioma"
+        },
+        "profilePhoto": {
+            "title": "Foto de perfil",
+            "subtitle": "Cambia tu foto de perfil"
+        },
+        "theme": {
+            "title": "Tema",
+            "subtitle": "Claro u oscuro"
+        },
+        "pushNotifications": {
+            "title": "Notificaciones push",
+            "subtitle": "Recibe notificaciones importantes"
+        }
+    },
+    "auth": {
+        "login": {
+            "title": "¡Bienvenido de vuelta!",
+            "subtitle": "Inicia sesión para continuar tu aventura náutica",
+            "email": "Email",
+            "emailPlaceholder": "tu@email.com",
+            "password": "Contraseña",
+            "passwordPlaceholder": "Tu contraseña",
+            "forgotPassword": "¿Olvidaste tu contraseña?",
+            "loginButton": "Iniciar Sesión",
+            "orContinueWith": "O continúa con",
+            "noAccount": "¿No tienes cuenta? ",
+            "signUp": "Regístrate"
+        },
+        "register": {
+            "title": "Crear Cuenta",
+            "subtitle": "Únete a la comunidad náutica más grande",
+            "firstName": "Nombre",
+            "firstNamePlaceholder": "Tu nombre",
+            "lastName": "Apellido",
+            "lastNamePlaceholder": "Tu apellido",
+            "phone": "Teléfono (Opcional)",
+            "phonePlaceholder": "+1 234 567 8900",
+            "confirmPassword": "Confirmar Contraseña",
+            "confirmPasswordPlaceholder": "Repite tu contraseña",
+            "acceptTerms": "Acepto los Términos y Condiciones y la Política de Privacidad",
+            "createAccount": "Crear Cuenta",
+            "hasAccount": "¿Ya tienes cuenta? ",
+            "signIn": "Inicia Sesión"
+        },
+        "forgotPassword": {
+            "title": "¿Olvidaste tu contraseña?",
+            "subtitle": "No te preocupes, ingresa tu email y te enviaremos instrucciones para restablecer tu contraseña.",
+            "sendInstructions": "Enviar Instrucciones",
+            "emailSent": "Email Enviado",
+            "emailSentMessage": "Hemos enviado las instrucciones para restablecer tu contraseña a:",
+            "checkInbox": "Revisa tu bandeja de entrada y sigue las instrucciones del email. Si no lo encuentras, revisa tu carpeta de spam.",
+            "backToLogin": "Volver al Login",
+            "rememberedPassword": "¿Recordaste tu contraseña? "
+        },
+        "errors": {
+            "emailRequired": "El email es requerido",
+            "emailInvalid": "Email inválido",
+            "passwordRequired": "La contraseña es requerida",
+            "passwordMinLength": "La contraseña debe tener al menos {{length}} caracteres",
+            "passwordsNotMatch": "Las contraseñas no coinciden",
+            "firstNameRequired": "El nombre es requerido",
+            "lastNameRequired": "El apellido es requerido",
+            "termsRequired": "Debes aceptar los términos y condiciones",
+            "loginError": "Error al iniciar sesión",
+            "registerError": "Error al crear la cuenta",
+            "resetPasswordError": "Error al enviar el email. Inténtalo de nuevo."
+        }
+    },
+    "home": {
+        "greeting": {
+            "morning": "Buenos días",
+            "afternoon": "Buenas tardes",
+            "evening": "Buenas noches"
+        },
+        "search": {
+            "placeholder": "¿Dónde quieres navegar?"
+        },
+        "categories": {
+            "title": "Categorías",
+            "all": "Todos",
+            "yacht": "Yates",
+            "sailboat": "Veleros",
+            "motorboat": "Lanchas",
+            "fishing_boat": "Pesca"
+        },
+        "quickActions": {
+            "title": "Acciones Rápidas",
+            "hostBoat": {
+                "title": "Ser Anfitrión",
+                "subtitle": "Alquila tu barco"
+            },
+            "experiences": {
+                "title": "Experiencias",
+                "subtitle": "Tours únicos"
+            }
+        },
+        "featured": {
+            "title": "Barcos Cercanos",
+            "seeAll": "Ver todos",
+            "noBoats": "No hay barcos disponibles",
+            "noBoatsDescription": "Intenta ajustar tus filtros de búsqueda"
+        },
+        "loading": {
+            "boats": "Cargando barcos..."
+        }
+    },
+    "boat": {
+        "available": "Disponible",
+        "from": "Desde",
+        "perHour": "/hora",
+        "perDay": "/día",
+        "fullDay": "Día completo",
+        "people": "personas",
+        "host": "Anfitrión: {{name}}",
+        "moreAmenities": "+{{count}} más",
+        "loadingDetails": "Cargando detalles del barco...",
+        "notFound": "Barco no encontrado",
+        "back": "Volver",
+        "description": "Descripción",
+        "contactHost": "Contactar Anfitrión",
+        "responseTime": "Responde en {{time}}",
+        "cancellation": "Cancelación",
+        "cancellationPolicy": "Política de cancelación: {{policy}}",
+        "bookBoat": "Reservar Barco",
+        "bookNow": "Reservar Ahora",
+        "rules": "Reglas",
+        "maxPassengers": "Máximo {{capacity}} pasajeros",
+        "smoking": "Fumar: {{allowed}}",
+        "pets": "Mascotas: {{allowed}}",
+        "allowed": "Permitido",
+        "notAllowed": "No permitido",
+        "amenities": "Comodidades",
+        "wifi": "WiFi",
+        "airConditioning": "Aire Acondicionado",
+        "kitchen": "Cocina",
+        "shower": "Ducha",
+        "speakers": "Altavoces",
+        "gps": "GPS",
+        "refrigerator": "Refrigerador",
+        "grill": "Parrilla",
+        "fishingEquipment": "Equipo de Pesca",
+        "lifeJackets": "Chalecos Salvavidas",
+        "halfDay": "Medio día",
+        "morning": "Mañana",
+        "afternoon": "Tarde",
+        "days": "días",
+        "boatTypes": {
+            "yacht": "Yate",
+            "sailboat": "Velero",
+            "motorboat": "Lancha",
+            "catamaran": "Catamarán",
+            "fishing_boat": "Barco de Pesca"
+        },
+        "deleteBoat": "Eliminar barco",
+        "deleteBoatConfirm": "¿Estás seguro de que quieres eliminar este barco? Esta acción no se puede deshacer.",
+        "deleteBoatSuccess": "Barco eliminado",
+        "deleteBoatSuccessMessage": "El barco ha sido eliminado exitosamente.",
+        "deleteBoatError": "No se pudo eliminar el barco",
+        "more": "más",
+        "luxuryYacht": "Yate de Lujo Mediterráneo",
+        "classicSailboat": "Velero Clásico",
+        "fishingBoat": "Barco de Pesca",
+        "premiumCatamaran": "Catamarán Premium",
+        "spain": "España"
+    },
+    "navigation": {
+        "explore": "Explorar",
+        "trips": "Viajes",
+        "messages": "Mensajes",
+        "profile": "Perfil"
+    },
+    "screens": {
+        "search": {
+            "title": "Buscar",
+            "subtitle": "Función de búsqueda avanzada próximamente"
+        },
+        "trips": {
+            "title": "Mis Viajes",
+            "subtitle": "Gestión de reservas próximamente"
+        },
+        "messages": {
+            "title": "Mensajes",
+            "subtitle": "Sistema de chat próximamente"
+        },
+        "profile": {
+            "title": "Perfil",
+            "subtitle": "Configuración de perfil próximamente"
+        }
+    },
+    "profile": {
+        "verified": "Verificado",
+        "logout": {
+            "title": "Cerrar Sesión",
+            "message": "¿Estás seguro de que quieres cerrar sesión?",
+            "confirm": "Cerrar Sesión",
+            "button": "Cerrar Sesión"
+        },
+        "menu": {
+            "title": "Menú",
+            "hostBoat": {
+                "title": "Ser Anfitrión",
+                "subtitle": "Alquila tu barco y gana dinero",
+                "pending": "Esperando verificación",
+                "pendingSubtitle": "Tu solicitud está siendo revisada",
+                "approved": "Funciones Host",
+                "approvedSubtitle": "Gestiona tus barcos y reservas",
+                "rejected": "Solicitud rechazada - Volver a aplicar",
+                "rejectedSubtitle": "Puedes volver a solicitar",
+                "rejectedWithReason": "Rechazado: {{reason}}",
+                "manageBoats": "Host Administrador"
+            },
+            "hostApplication": {
+                "title": "Solicitud de Anfitrión",
+                "subtitle": "Completa tu solicitud para ser anfitrión",
+                "firstName": "Nombre",
+                "lastName": "Apellidos",
+                "email": "Email",
+                "emailDifferent": "Email (si es diferente al actual)",
+                "phone": "Número de teléfono *",
+                "phonePlaceholder": "+34 600 123 456",
+                "captainLicense": "Número de licencia de capitán *",
+                "captainLicensePlaceholder": "Ej: 123456789",
+                "nauticalExperience": "¿Cuál es tu experiencia náutica? *",
+                "nauticalExperiencePlaceholder": "Describe tu experiencia navegando, licencias, etc...",
+                "languages": "¿Hablas otros idiomas? *",
+                "languagesPlaceholder": "Ej: Inglés, Francés, Alemán...",
+                "hostDescription": "¿Cómo te describirías como capitán? *",
+                "hostDescriptionPlaceholder": "Texto de presentación en tu perfil...",
+                "personalInfo": "¿Cuál es tu información personal? *",
+                "personalInfoPlaceholder": "Nombre, teléfono, email, documento de identidad...",
+                "submitApplication": "Enviar Solicitud",
+                "applicationSubmitted": "¡Solicitud enviada con éxito!",
+                "applicationSubmittedDescription": "Revisaremos tu solicitud y te contactaremos pronto.",
+                "profilePhoto": "Foto de perfil *",
+                "accountInfo": "Información de la cuenta",
+                "identityDocuments": "Documentos de Identidad",
+                "identityDocumentsDescription": "Sube fotos claras de tu DNI por ambos lados",
+                "dniFront": "DNI - Anverso *",
+                "dniBack": "DNI - Reverso *",
+                "firstNamePlaceholder": "Tu nombre",
+                "lastNamePlaceholder": "Tu apellido",
+                "emailPlaceholder": "tu@email.com"
+            },
+            "myBoats": {
+                "title": "Mis Barcos",
+                "subtitle": "Gestiona tus barcos alquilados"
+            },
+            "favorites": {
+                "title": "Favoritos",
+                "subtitle": "Barcos guardados para más tarde"
+            },
+            "payments": {
+                "title": "Pagos",
+                "subtitle": "Historial de transacciones"
+            },
+            "settings": {
+                "title": "Configuración",
+                "subtitle": "Preferencias y privacidad"
+            }
+        }
+    },
+    "messages": {
+        "title": "Mensajes",
+        "tabs": {
+            "all": "Todos",
+            "users": "Usuarios",
+            "system": "Sistema",
+            "admin": "Admin"
+        },
+        "empty": {
+            "title": "No hay mensajes",
+            "description": "Cuando tengas conversaciones con anfitriones o recibas notificaciones del sistema, aparecerán aquí."
+        },
+        "inputPlaceholder": "Enviar mensaje",
+        "sendError": "No se pudo enviar el mensaje",
+        "you": "Tú"
+    },
+    "boatDetails": {
+        "amenities": "Comodidades",
+        "superHost": "Super Anfitrión",
+        "contactHost": "Contactar Anfitrión",
+        "description": "Descripción",
+        "rules": "Normas del Barco",
+        "cancellation": "Política de Cancelación",
+        "bookNow": "Reservar Ahora"
+    },
+    "search": {
+        "placeholder": "Buscar barcos, marcas, modelos...",
+        "searchCity": "Buscar ciudad...",
+        "whereToSail": "¿Dónde quieres navegar?",
+        "selectZone": "Selecciona una zona",
+        "sortBy": "Ordenar por",
+        "sort": {
+            "bestRated": "Mejor valorados",
+            "cheapest": "Más baratos",
+            "mostExpensive": "Más caros",
+            "leastRated": "Menos valorados"
+        },
+        "filters": {
+            "brand": "Marca",
+            "type": "Tipo de barco",
+            "capacity": "Capacidad",
+            "people": "personas",
+            "clear": "Limpiar",
+            "apply": "Aplicar"
+        },
+        "results": "{{count}} barcos encontrados",
+        "empty": {
+            "title": "No se encontraron barcos",
+            "description": "Intenta ajustar tus filtros de búsqueda o selecciona otra ubicación."
+        }
+    },
+    "trips": {
+        "title": "Mis Viajes",
+        "tabs": {
+            "upcoming": "Próximos",
+            "completed": "Completados",
+            "cancelled": "Cancelados"
+        },
+        "status": {
+            "upcoming": "Próximo",
+            "completed": "Completado",
+            "cancelled": "Cancelado",
+            "pending": "Pendiente"
+        },
+        "actions": {
+            "message": "Mensaje",
+            "reschedule": "Reprogramar",
+            "review": "Valorar"
+        },
+        "empty": {
+            "title": "No tienes viajes",
+            "description": "Cuando hagas reservas, aparecerán aquí para que puedas gestionarlas.",
+            "explore": "Explorar Barcos"
+        }
+    },
+    "host": {
+        "dashboard": {
+            "title": "Host Administrador"
+        },
+        "tabs": {
+            "boats": "Barcos",
+            "bookings": "Reservas"
+        },
+        "boats": {
+            "title": "Mis Barcos",
+            "addBoat": "Añadir Barco",
+            "noBoats": "Aún no administras barcos",
+            "noBoatsDescription": "Añade tu primer barco para empezar a recibir reservas",
+            "yourBoats": "Tus Barcos",
+            "basicInfo": "Información Básica",
+            "name": "Nombre del Barco",
+            "namePlaceholder": "Ingresa el nombre del barco",
+            "description": "Descripción",
+            "descriptionPlaceholder": "Describe tu barco",
+            "type": "Tipo de Barco",
+            "capacity": "Capacidad",
+            "capacityPlaceholder": "Máx. pasajeros",
+            "length": "Eslora",
+            "lengthPlaceholder": "Eslora en metros",
+            "year": "Año",
+            "yearPlaceholder": "Año de fabricación",
+            "pricing": "Precios",
+            "pricingType": "Tipo de Precio",
+            "hourly": "Por Horas",
+            "daily": "Por Día Completo",
+            "pricePerHour": "Precio por Hora",
+            "pricePerHourPlaceholder": "€/hora",
+            "pricePerDay": "Precio por Día",
+            "pricePerDayPlaceholder": "€/día",
+            "location": "Ubicación",
+            "city": "Ciudad",
+            "cityPlaceholder": "Ingresa la ciudad",
+            "state": "Estado/Región",
+            "statePlaceholder": "Ingresa el estado/región",
+            "country": "País",
+            "countryPlaceholder": "Ingresa el país",
+            "amenities": "Comodidades",
+            "rules": "Reglas",
+            "smokingAllowed": "Fumar permitido",
+            "petsAllowed": "Mascotas permitidas",
+            "cancellationPolicy": "Política de Cancelación",
+            "cancellationPolicyPlaceholder": "Describe tu política de cancelación",
+            "createBoat": "Crear Barco",
+            "validation": {
+                "required": "Por favor completa todos los campos requeridos",
+                "priceRequired": "Por favor ingresa el precio correspondiente"
+            },
+            "success": {
+                "title": "Barco Creado",
+                "message": "Tu barco ha sido añadido exitosamente"
+            },
+            "error": {
+                "create": "Error al crear el barco. Inténtalo de nuevo"
+            }
+        },
+        "bookings": {
+            "title": "Reservas",
+            "noBookings": "Aún no hay reservas",
+            "noBookingsDescription": "Cuando recibas reservas, aparecerán aquí"
+        }
+    }
+}

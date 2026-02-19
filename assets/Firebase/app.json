@@ -1,0 +1,63 @@
+{
+  "expo": {
+    "name": "Barquea",
+    "owner": "foreve0914",
+    "slug": "barquea",
+    "scheme": "com.foreve0914.Barquea",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+
+    "jsEngine": "jsc", 
+
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.foreve0914.Barquea",
+      "googleServicesFile": "./assets/Firebase/GoogleService-Info.plist",
+      "config": {
+        "branch": {
+          "apiKey": "AIzaSyAJg-VFzpF2SU98Kvn6XPmuw9-3C_SKHbk"
+        }
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "branch": {
+          "apiKey": "AIzaSyDUhQH3Kw36FBM76U8HS3GLtOo-gIXxJPs"
+        }
+      },
+      "package": "com.foreve0914.Barquea",
+      "googleServicesFile": "./assets/Firebase/google-services.json",
+      "permissions": [
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_MEDIA_IMAGES"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-localization",
+      "@react-native-firebase/app",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e3e014fb-1e59-4463-9a7f-cc156fe240a2"
+      }
+    }
+  }
+}
